@@ -56,8 +56,7 @@
     "Version": 2,
     "Subsampling": false,
     "Type": "ClassificationTrainingOption",
-    "TrainingTime": 2147483647,
-    "OptimizeMetric": "LogLoss",
+    "TrainingTime": 0,
     "ValidationOption": {
       "Version": 0,
       "Type": "TrainValidateSplitValidationOption",
